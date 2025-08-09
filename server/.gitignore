@@ -1,0 +1,21 @@
+# Node modules
+/node_modules/
+
+# Archivos de entorno
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Directorio de cobertura de pruebas (si usas herramientas de testing)
+/coverage/
+
+# Sequelize CLI archivos generados (si usas)
+/migrations/*.js
+/seeders/*.js
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
